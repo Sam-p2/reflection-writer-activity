@@ -1,0 +1,36 @@
+body {
+    font-family: 'Arial', sans-serif; /* Change to your preferred font */
+    background-color: #f4f4f9; /* Light background color */
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 800px; /* Limit the width of the content */
+    margin: auto;
+    background: white; /* White background for the container */
+    padding: 20px;
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+h1 {
+    text-align: center; /* Center the main title */
+    color: #333; /* Dark text color for better readability */
+}
+
+h2 {
+    margin-top: 20px; /* Space above subheadings */
+    color: #007BFF; /* Blue color for subheadings */
+}
+
+p {
+    margin-bottom: 15px; /* Space between paragraphs */
+}
+
+footer {
+    text-align: center; /* Center the footer */
+    margin-top: 20px; /* Space above footer */
+    color: #666; /* Lighter color for footer text */
+}
